@@ -1,6 +1,6 @@
 # Product Management
 
-This project was built using a code-along tutorial from PluralSight. It was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
+This project was built using a code-along tutorial from PluralSight called Angular-Getting Started. It was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
 
 ## Development server
 
